@@ -1,0 +1,5 @@
+USER = 'root'
+PASSWORD = 'example'
+HOST = 'localhost'
+PORT = '3307'
+DATABASE = 'binomontron'
